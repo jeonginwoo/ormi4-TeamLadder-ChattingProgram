@@ -1,3 +1,5 @@
+package OneToOne;
+
 public class Exe {
     public static void main(String[] args) {
         OneToOneS s = new OneToOneS();

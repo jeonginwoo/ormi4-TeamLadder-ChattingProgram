@@ -1,3 +1,5 @@
+package OneToOne;
+
 import java.io.*;
 import java.net.*;
 import java.awt.*;
@@ -92,7 +94,7 @@ public class OneToOneC extends Frame implements ActionListener {
     }
 
 //    public static void main(String[] args) {
-//        OneToOneC c = new OneToOneC();
+//        OneToOne.OneToOneC c = new OneToOne.OneToOneC();
 //        c.runClient();
 //    }
 
